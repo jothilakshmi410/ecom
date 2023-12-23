@@ -3,16 +3,16 @@
 # Features:
 
 # 1.Product listing page
-	Listing all the products
-	Add any item to the cart
-	Product list contains Product name, Description, Price
-	If an item added to the cart it shown one notification
-	The added Items can be viewed in the cart page
+* Listing all the products
+* Add any item to the cart
+* Product list contains Product name, Description, Price
+* If an item added to the cart it shown one notification
+* The added Items can be viewed in the cart page
  
 # 2.Cart page
-	This page contains the list of all added Items
-	Implemented removeal of item from the cart.
-	Total price calculated and shown in the bottom of the page.
+* This page contains the list of all added Items
+* Implemented removeal of item from the cart.
+* Total price calculated and shown in the bottom of the page.
 
 # Walkthrough 
 
