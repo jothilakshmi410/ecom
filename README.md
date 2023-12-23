@@ -23,6 +23,13 @@
 5. You can add or remove quantity of the items.
 6. You can view the total price of selected items to be purchased.
 
-
+Package installation
+```bash
+nmp install
+```
+To execute the react-app
+```bash
+npm start
+```
 
  
